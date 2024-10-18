@@ -1,6 +1,6 @@
 module.exports.handler = async (event) => {
     // write hello world to the logs
-    console.log("Hello World");
+    console.log("Hello World and WTC");
     // assign a value to a variable
     let message = "Go WTC Serverless v4.0! Your function executed successfully!";
 
